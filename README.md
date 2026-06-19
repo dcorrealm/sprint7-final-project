@@ -12,7 +12,7 @@ En age se reemplaza el sentinel -999 con la mediana.
 En city se reemplaza el sentinel "?" por valores nulos (pd.NA).
 Se marcan como nulas las fechas fuera de rango (superiores a 2024).
 
-Abrir el archivo en google colab: [S7_Version_Estudiante_Project_ConnectaTel.ipynb](https://colab.research.google.com/github/dcorrealm/sprint7-final-project/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb),
+Abrir el archivo en google colab: https://drive.google.com/file/d/1es2KQVNkEFv71Ol0o0X7Ye9aQJ_dDQ8S/view?usp=sharing,
 O:
 
 1. Abre el archivo '.ipynb' en github
